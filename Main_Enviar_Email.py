@@ -1,4 +1,3 @@
-# set PATH=%PATH%;C:\Users\c122416\AppData\Local\Programs\Python\Python38-32\Scripts
 # pip install pysimplegui
 #import PySimpleGUI
 #PySimpleGUI.main()
